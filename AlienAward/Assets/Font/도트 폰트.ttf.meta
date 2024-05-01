@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 5a6b6834458b677408251d9c137cf482
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Calligraphr
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 3ad55e3d6b9123a449d0a5ab605776ce, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
